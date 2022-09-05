@@ -1,5 +1,5 @@
 """
-Name: {Marisa Imkaew}
+Name: {Marisa Inkaew}
 SID: {363411760002}
 Group: {MIT431}
 """
