@@ -33,7 +33,7 @@ def display_mypet():
         for x in mypet_list:
             x.display_info()
 
-# ใช้รับข้อมูลสัตวืเลี้ยงจากผู้ใช้งาน
+# ใช้รับข้อมูลสัตว์เลี้ยงจากผู้ใช้งาน
 def input_mypet_data():
     name = input("Enter your pet name: ")
     age = int(input("Enter your pet age: "))
